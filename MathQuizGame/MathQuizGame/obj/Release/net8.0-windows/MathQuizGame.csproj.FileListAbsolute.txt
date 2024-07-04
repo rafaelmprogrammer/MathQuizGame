@@ -1,0 +1,17 @@
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\bin\Release\net8.0-windows\MathQuizGame.exe
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\bin\Release\net8.0-windows\MathQuizGame.deps.json
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\bin\Release\net8.0-windows\MathQuizGame.runtimeconfig.json
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\bin\Release\net8.0-windows\MathQuizGame.dll
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\bin\Release\net8.0-windows\MathQuizGame.pdb
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.Form1.resources
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.AssemblyInfo.cs
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.dll
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\refint\MathQuizGame.dll
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.pdb
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.genruntimeconfig.cache
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\ref\MathQuizGame.dll
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame\obj\Release\net8.0-windows\MathQuizGame.Properties.Resources.resources

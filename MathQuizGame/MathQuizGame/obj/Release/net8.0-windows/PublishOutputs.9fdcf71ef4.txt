@@ -1,0 +1,5 @@
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame.exe
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame.dll
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame.deps.json
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame.runtimeconfig.json
+C:\Users\rafae\Desktop\MathQuizGameAPP\MathQuizGameV1\MathQuizGame.pdb
